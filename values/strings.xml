@@ -1,0 +1,369 @@
+<resources>
+    <string name="app_name">God Help Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_spinner_value">(select one)</string>
+    <string name="default_spinner_value">(default)</string>
+    <string name="custom_spinner_value">(custom)</string>
+
+    <!-- praying for -->
+    <string-array name="help">
+        <item>myself</item>
+        <item>world leaders</item>
+        <item>my family</item>
+    </string-array>
+
+    <!-- gifts -->
+    <string-array name="gifts">
+        <item>health</item>
+        <item>happiness</item>
+    </string-array>
+    <!-- love God -->
+    <string-array name="love">
+        <item>you created the beauty of the world</item>
+        <item>you reveal the meaning of the world</item>
+    </string-array>
+
+    <!-- Sins -->
+    <string-array name="sins">
+        <item>abortion</item>
+        <item>anger</item>
+        <item>arguing</item>
+        <item>arrogance</item>
+        <item>assault</item>
+        <item>being deceitful</item>
+        <item>being envious</item>
+        <item>being lazy</item>
+        <item>bitterness</item>
+        <item>cursing</item>
+        <item>filthy conversation</item>
+        <item>gluttony</item>
+        <item>greed</item>
+        <item>impatience</item>
+        <item>ignoring those in need</item>
+        <item>judging</item>
+        <item>lust</item>
+        <item>not being content with what I have</item>
+        <item>not having charity</item>
+        <item>not having compassion</item>
+        <item>thinking evil in my heart</item>
+        <item>pride</item>
+        <item>speaking evil of another</item>
+    </string-array>
+
+    <!-- Grateful for -->
+    <string-array name="grateful">
+        <item>clothing</item>
+        <item>employment</item>
+        <item>family</item>
+        <item>food</item>
+        <item>friends</item>
+        <item>children</item>
+        <item>health</item>
+        <item>nature</item>
+    </string-array>
+
+    <!-- Relationship -->
+    <string-array name="relationship">
+        <item>me</item>
+        <item>my wife</item>
+        <item>my husband</item>
+        <item>my son</item>
+        <item>my daughter</item>
+        <item>my father</item>
+        <item>my mother</item>
+        <item>my brother</item>
+        <item>my sister</item>
+        <item>my uncle</item>
+        <item>my aunt</item>
+        <item>my friend</item>
+        <item>my coworker</item>
+    </string-array>
+
+    <!-- God names -->
+    <string-array name="gods">
+        <item>Allah</item>
+        <item>Christ</item>
+        <item>Creator</item>
+        <item>Father</item>
+        <item>God</item>
+        <item>Holiness</item>
+        <item>Jehovah</item>
+        <item>Maker</item>
+        <item>Master</item>
+        <item>Yahweh</item>
+    </string-array>
+
+    <!-- Adoration -->
+    <string-array name="adoration">
+         <item>
+            I adore You, {{key=god,value=Lord and Creator}}, because {{key=love, value=love me}}.
+        </item>
+        <item>
+            I adore You, {{key=god,value=Lord and Creator}}, hidden in the Most Blessed Sacrament.
+            I adore You for all the works of Your hands, that reveal to me so much wisdom, goodness and mercy, O {{key=god,value=Lord}}.
+            You have spread so much beauty over the earth and it tells me about Your beauty, even though these beautiful things are but a faint reflection of You, incomprehensible Beauty.
+            And although You have hidden Yourself and concealed Your beauty, my eye, enlightened by faith, reaches You and my soul recognizes its Creator, its Highest Good, and my heart is completely immersed in prayer of adoration.
+        </item>
+        <item>
+            My {{key=god,value=Lord and Creator}}, Your goodness encourages me to converse with You.
+            Your mercy abolishes the chasm which separates the Creator from the creature. To converse with You, O {{key=god,value=Lord}}, is the delight of my heart.
+            In You I find everything that my heart could desire. Here, Your light illumines my mind, enabling it to know You more and more deeply.
+            Here streams of graces flow down upon my heart. Here my soul draws eternal life.
+            O my {{key=god,value=Lord and Creator}}, You alone, beyond all these gifts, give Your own self to me and unite Yourself intimately with Your miserable creature.
+        </item>
+        <item>
+            O {{key=god,value=Christ}}, let my greatest delight be to see You loved and Your praise and glory proclaimed, especially the honor of Your mercy.
+            O {{key=god,value=Christ}}, let me glorify Your goodness and mercy to the last moment of my life, with every drop of my blood and every beat of my heart.
+            Would that I be transformed into a hymn of adoration of You. When I find myself on my deathbed, may the last beat of my heart be a loving hymn glorifying Your unfathomable mercy.
+        </item>
+    </string-array>
+
+    <!-- Confession Offender -->
+    <string-array name="confession_offender">
+         <item>
+            I bring to mind {{key=offender,value=the offender}}\n
+            I bring this person before You\n
+
+            I feel hurt by them\n
+            Right now I confess any negative feelings I have about them\n
+            I forgive the wrongs they have done towards me\n
+            For any deliberate or unintentional things they have done\n
+            That have caused me pain\n
+            In the best way that I know how, I fully forgive them\n
+
+            I release {{key=offender,value=the offender}} to You\n
+
+            Now that I have forgiven {{key=offender,value=the offender}}\n
+            I choose not to hold any grudges towards him/her\n
+            Thank you that as I am praying now\n
+            You are freeing my inner world to live again\n
+            Free from resentment, pain and bitterness\n
+            Filled with joy, freedom and love\n
+        </item>
+    </string-array>
+
+    <!-- Confession Sin -->
+    <string-array name="confession_sin">
+        <item>
+            {{key=god,value=Lord}}, I\'m in that place again\n
+            On my knees\n
+            Laying my life out before You\n
+            Thank you that on the cross you cried\n
+            \"It is finished\"
+            You have done it\n
+            Forgiveness is complete\n
+            I can live forever in Your grace\n
+            Forever in Your love\n
+        </item>
+        <item>
+            So I ask now for Your forgiveness\n
+            For the wrongs that I have done\n
+            And the things that I have neglected\n
+            I ask for Your forgiveness\n
+            For the people I have hurt along the way\n
+            And those who I have failed to love as You love\n
+            I ask for Your forgiveness\n
+        </item>
+        <item>
+            I receive Your forgiveness\n
+            And resolve in my heart\n
+            That with Your strength\n
+            I determine not to make these errors again\n
+            I receive Your forgiveness\n
+            And by the power of Your Holy Spirit\n
+            I walk away from everything I know to be wrong\n
+            And embrace everything I know about You\n
+            For the kingdom, the power and the glory\n
+            Are always and forever Yours\n
+        </item>
+        <item>
+            Almighty {{key=god,value=God}}, our heavenly Father:\n
+            We have sinned against you,\n
+            through our own fault,\n
+            in thought, and word, and deed,\n
+            and in what we have left undone.\n
+            For the sake of your Son our Lord Jesus Christ,\n
+            forgive us all our offenses;\n
+            and grant that we may serve you\n
+            in newness of life,\n
+            to the glory of your Name.\n
+        </item>
+        <item>
+            I lay bear before you the darkest areas of my life\n
+            I give you the things which I have done wrong\n
+            And the areas where I have failed to act as I should\n
+            I never want to live like this again\n
+
+            Right now I chose to turn away from everything I know to be wrong about my life\n
+            As I kneel before you in adoration\n
+            I ask for your forgiveness\n
+            And I give you all my shame, guilt and wrongdoing\n
+
+            Thank you that you accept me and embrace me\n
+            Please fill me with Your Holy Spirit now\n
+            Focus my heart on You\n
+            And empower me in everything that I do\n
+
+            I ask all this in the precious name of {{key=god,value=Jesus}}\n
+            My Saviour and Protector\n
+        </item>
+        <item>
+            I beseech Thee, O Most Blessed Trinity,\n
+            to shed the fire of Thy merciful love upon this most frigid heart,\n
+            to let shine upon this most darkened mind,\n
+            the light of the Son,\n
+            in whom alone is every grace and truth.\n
+            Have pity on me, most Merciful God,\n
+            and regard not my sins and offenses,\n
+            but in Thy mercy forgive me yet again,\n
+            and grant me the graces to serve Thee now in fidelity and truth.\n
+        </item>
+        <item>
+            Almighty {{key=god,value=God}}, our heavenly Father:\n
+            I have sinned against you,\n
+            through my own fault,\n
+            in thought, and word, and deed,\n
+            and in what I have left undone.\n
+            For the sake of your Son our Lord Jesus Christ,\n
+            forgive my offenses;\n
+            and grant that I may serve you\n
+            in newness of life,\n
+            to the glory of your Name.\n
+        </item>
+        <item>
+            O my God!\n
+            I offer Thee all my actions of this day for the intentions and for the glory of the Sacred Heart of Jesus.\n
+            I desire to sanctify every beat of my heart, my every thought, my simplest works, by uniting them to Its infinite merits;\n
+            and I wish to make reparation for my sins by casting them into the furnace of Its Merciful Love.\n
+        </item>
+    </string-array>
+
+    <!-- Thanksgiving -->
+    <string-array name="thanksgiving">
+        <item>
+            {{key=god,value=Lord}}, thank you for walking with us through the seasons of our lives.\n
+            For the winter, when I am held safe in your arms through the darkness.\n
+            For the hope of spring, as I am filled with new promise and life.\n
+            For summer time, full of warmth and colour\n
+            And for autumn days as leaves fall to seed new growth.\n
+            You are always with us.\n
+        </item>
+        <item>
+            O {{key=god,value=God}},\n
+            I thank you for this earth, our home; for the wide sky and the blessed sun, for the ocean and streams, for the towering hills and the whispering wind, for the trees and green grass.\n
+            I thank you for our senses by which I hear the songs of birds, and see the splendor of fields of golden wheat, and taste autumn\'s fruit, rejoice in the feel of snow, and smell the breath of spring flowers.\n
+            Grant us a heart opened wide to all this beauty; and save us from being so blind that I pass unseeing when even the common thornbush is aflame with your glory.\n
+            For each new dawn is filled with infinite possibilities for new beginnings and new discoveries. Life is constantly changing and renewing itself. In this new day of new beginnings with God, all things are possible. I am restored and renewed in a joyous awakening to the wonder that our lives are and, yet, can be.\n
+        </item>
+        <item>
+            O {{key=god,value=Lord}},\n
+            How full is this world of your unending creativity.\n
+            How astounding is creation in all its variety.\n
+            How breathtaking is new life, growth and transformation.\n
+            How wonderful is your provision for us your children!\n
+            This day, I celebrate your great goodness with thankful hearts and joyful lives.\n
+        </item>
+        <item>
+            For each new morning with its light,\n
+            For rest and shelter of the night,\n
+            For health and food,\n
+            For love and friends,\n
+            For everything Thy goodness sends.\n
+        </item>
+        <item>
+            {{key=god,value=Lord}}, thank you for the flowers and thank you for the trees\n
+            Thank you for my special friends and all the fun they bring\n
+            Thank you for the food I eat and thank you for my drink\n
+            But most of all I thank you for the way you love me\n
+        </item>
+        <item>
+            Thank you for {{key=appreciate,value=our children}}.\n
+            Bless them with your love and peace,\n
+            Protect them with your truth and strength,\n
+            Engage them with your hope and vision.\n
+            Thank you for {{key=appreciate,value=our children}}.\n
+        </item>
+        <item>
+            {{key=god,value=God}},\n
+
+            I give you {{key=appreciate,value=all the members of our family}}. You know them all so well and love them all. I ask that you would cover us with a rainbow of hope.\n
+
+            Hope that draws us together to work out our differences.\n
+            Hope that helps us to celebrate together and care for one another.\n
+            Hope that rides like a banner in my life and watches over us wherever I go.\n
+            Hope that overcomes adversity and gathers strength to overcome.\n
+            Hope that guides us and gives us vision for our future alone and together.\n
+            Hope filled with love.\n
+            Hope that fuels faith.\n
+            Hope that breathes peace.\n
+
+            May our family live in you\n
+            Underneath your promises.\n
+        </item>
+        <item>
+            {{key=god,value=God}}, I thank for Your faithfulness.\n
+            Thank you that I can always trust in You.\n
+            You are an abundant God and out of Your great mercy you have given me so much.\n
+        </item>
+    </string-array>
+
+    <!-- Supplication -->
+    <string-array name="supplication">
+        <item>
+            May {{key=god,value=God}} give {{key=relationship, value=this person}} {{key=help,value=you}}…\n
+
+            For every storm, a rainbow,\n
+            For every tear, a smile,\n
+            For every care, a promise,\n
+            And a blessing in each trial.\n
+            For every problem life sends,\n
+            A faithful friend to share,\n
+            For every sigh, a sweet song,\n
+            And an answer for each prayer.\n
+        </item>
+        <item>
+            {{key=god,value=Lord}}, may {{key=relationship, value=}} {{key=help,value=you}} earnestly seek after You\n
+            May {{key=help,value=you}} seek Your kingdom, Your will\n
+            That heaven may come to earth\n
+            And Your presence would be known by all\n
+
+            I lay my plans before You\n
+            Please rearrange them as You see fit\n
+            See if there is any corrupt way within me\n
+            And lead me in the everlasting way\n
+
+            I give you the desires of my heart\n
+            My ambitions and my schemes\n
+            I surrender them wholly to You\n
+            Please anoint them for Your purposes and glory\n
+
+            I give You my whole being\n
+            My gifts and my character\n
+            Come sharpen my skills and transform my heart\n
+            This day and every day\n
+        </item>
+        <item>
+            May the Lord bless {{key=relationship, value=}} {{key=help,value=you}} and keep {{key=help,value=you}}.\n
+            May the Lord make {{key=help,value=your}}\'s face to shine upon {{key=help,value=you}},\n
+            and be gracious to you.\n
+            May the Lord lift up his countenance upon {{key=help,value=you}},\n
+            and give {{key=help,value=you}} peace.\n
+        </item>
+        <item>
+            May the blessing of light be on {{key=relationship, value=}} {{key=help,value=you}} – light without and light within.\n
+            May the blessed sunlight shine on {{key=help,value=you}} like a great peat fire, so that stranger and friend may come and warm himself at it.\n
+        </item>
+        <item>
+            May the Lord bless {{key=relationship, value=}} {{key=help,value=you}} and keep {{key=help,value=you}}.\n
+            May the Lord make his face to shine upon {{key=help,value=you}}, and be gracious to {{key=help,value=you}}.\n
+            May the Lord lift up his countenance upon {{key=help,value=you}}, and give {{key=help,value=you}} peace.\n
+        </item>
+        <item>
+            O my God! I ask thee for myself and for those whom I hold dear,\n
+            the grace to fulfill perfectly Thy Holy Will,\n
+            to accept for love of Thee the joys and sorrows of this passing life,\n
+            so that we may one day be united together in Heaven for all Eternity.\n
+        </item>
+    </string-array>
+    <string name="gods">hello</string>
+</resources>
